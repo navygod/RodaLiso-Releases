@@ -1,6 +1,6 @@
 # RodaLiso — Downloads oficiais
 
-Desenvolvedor: Tiago C. Correa (navygod).
+Desenvolvedor: WebDevAnalytics (navygod).
 
 Diagnóstico, monitoramento e manutenção do Windows x64, com ações controladas pelo usuário.
 
